@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Indecision component snapshot match 1`] = `
+<img src="https://via.placeholder.com/250" alt="background meme">
+<div class="bg-dark"></div>
+<div class="container"><input type="text" placeholder="Ask me something">
+  <p>Remember finish your question with a (?)</p>
+  <!--v-if-->
+</div>
+`;
